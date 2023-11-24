@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-       <h1>Hello world</h1>
+       <h1>Hello world on netlify</h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
